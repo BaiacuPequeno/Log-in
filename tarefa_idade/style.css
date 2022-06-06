@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 180px 180px 150px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.582);
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.align {
+    padding-left: 15px;
+}
